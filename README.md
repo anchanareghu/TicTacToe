@@ -10,5 +10,4 @@ The app is built using Java and utilizes drawables and a grid layout to provide 
  4. Reset option to start a new game.
 
 ## Screenshots
-<img src="app/src/main/res/drawable/screenshot01.png" width="200" /> <img src="app/src/main/res/drawable/screenshot02.png" width="200" />
-"# TicTacToe" 
+<img src="app/src/main/res/drawable/screenshot01.png" width="200" /> <img src="app/src/main/res/drawable/screenshot03.png" width="200" /> <img src="app/src/main/res/drawable/screenshot02.png" width="200" />
